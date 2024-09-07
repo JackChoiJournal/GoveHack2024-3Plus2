@@ -8,7 +8,7 @@ To address the challenges facing Northern Territory (NT) tourism, we are excited
 
 At its core, our app gamifies the travel experience in NT by offering users a series of challenges and rewards. By incorporating interactive elements such as virtual checkpoints, hidden locations, and photo-based tasks, it offers a unique and adventurous way for tourists to discover NT’s hidden gems. Here’s a high-level overview of how it works:
 
-Travel Challenges & Rewards: The app encourages users to explore NT by completing specific challenges at various pinpoint locations. Users are rewarded with points for each completed challenge, which can be redeemed for real-world rewards like discounts at local businesses, free access to attractions, and more.
+Travel Challenges & Rewards: The app encourages users to explore NT by completing specific challenges at various pinpoint locations. Users are rewarded with points for each completed challenge, which can be redeemed for real-world rewards like Aboriginal handcraft, NT-only souvenirs, discounts at local businesses, and more.
 
 # Virtual & AR Navigation
 
