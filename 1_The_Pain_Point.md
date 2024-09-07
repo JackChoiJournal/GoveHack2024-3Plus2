@@ -1,4 +1,4 @@
-# 1. The Challenge: Revitalizing Northern Territory Tourism
+# The Challenge: Revitalizing Northern Territory Tourism
 
 ## Introduction
 
