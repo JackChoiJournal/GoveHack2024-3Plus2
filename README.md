@@ -46,3 +46,22 @@ The viral nature of social sharing combined with the app’s interactive feature
 ![app pages](img/App_Pages.jpg)
 
 For more details such as the detailed game mechanics, please go to ./source/\_posts
+
+# Want to brows it locally?
+
+Welcome to our GitHub repository! 🎉 We're excited to share our work from the GovHack 2024 event with you. This repo includes everything you need to run this server-ready website.
+
+If you'd like to host the website locally, it's a breeze! Just follow these simple steps:
+
+1. Install Hexo globally:
+   ```
+   npm i hexo -g
+   ```
+2. Start the local server:
+   ```
+   hexo server
+   # Server link is shown on screen
+   ```
+
+Feel free to explore. Enjoy! 🌟
+
