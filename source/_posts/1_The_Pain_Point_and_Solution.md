@@ -1,21 +1,66 @@
-# The Challenge: Revitalizing Northern Territory Tourism
+# Introduction
 
-## Introduction
+<img src="img/App_Logo.png" alt="app logo" width="200" />
+To address the challenges facing Northern Territory (NT) tourism, we are excited to introduce an innovative app designed to transform the way people explore and experience NT. Our app not only engages visitors but also leverages the viral potential of social media to create a ripple effect, driving interest and visitors to the region—especially among the younger generation.
 
-The Northern Territory (NT) is a region filled with incredible natural beauty and rich cultural heritage, yet it faces a significant challenge—declining tourist numbers. Despite its unique attractions, NT struggles to compete with Australia’s more traditional destinations like Sydney, Melbourne, and the Great Barrier Reef.
+## What Does Our App Do?
 
-## Tourism in Decline
+At its core, our app **gamifies the travel experience** in NT by offering users a series of challenges and rewards. By incorporating interactive elements such as virtual checkpoints, hidden locations, and photo-based tasks, it offers a unique and adventurous way for tourists to discover NT’s hidden gems. Here’s a high-level overview of how it works:
 
-In recent years, the NT has experienced a downturn in tourism. Visitor numbers are dropping, local businesses are feeling the impact, and the vibrant culture of the region is being overlooked. This decline is particularly troubling given the NT's untapped potential, especially when it comes to attracting a younger audience.
+### 🏆 Travel Challenges & Rewards
 
-## The Core Problem
+The app encourages users to explore NT by completing specific challenges at various pinpoint locations. Users are rewarded with points for each completed challenge, which can be redeemed for real-world rewards like Aboriginal handcraft, NT-only souvenirs, discounts at local businesses, and more.
 
-No ‘Killer Factor’: We believe that the primary issue NT faces is the lack of a compelling "killer factor"—something that truly grabs the attention of modern travellers, especially the younger generation. In an age where travel is often driven by online trends and social media, NT has not yet found the spark to ignite global interest. The region needs something more than just breathtaking landscapes; it needs to be talked about.
+### 🗺️ Virtual & AR Navigation
 
-## Engaging the Younger Audience
+Users will be guided through the app’s virtual navigation to reach designated checkpoints. **Hidden checkpoints**, only revealed when a user is within a 50-meter radius, add an element of surprise and excitement, encouraging deeper exploration.
 
-The younger generation, particularly millennials and Gen Z, are the key to revitalizing NT tourism. They are the ones shaping travel trends and driving viral content across social media platforms. If we can create something that captivates them, we open the door for them to become NT’s greatest advocates. They have the power to take experiences viral, sharing their journeys, photos, and stories with their vast networks. Their influence is invaluable in creating the "buzz" that NT desperately needs.
+### 📸 Photo Challenges
 
-## The Power of Going Viral
+At each checkpoint, users must **replicate a photo** provided by the app to claim points. This ensures engagement with NT’s iconic scenery and cultural landmarks, creating social-media-worthy content that can spark viral attention.
 
-Today, destinations thrive not just because they are beautiful, but because they are shared widely across the internet. Instagram, TikTok, and other social platforms are modern-day travel guides. A viral post or video can inspire millions of people to add a destination to their bucket list overnight. To put the NT on the global map, we must harness the potential of the internet, fueled by the younger generation, who are the primary users and builders of this digital world.
+### 🚶‍♂️ Distance Tracking
+
+The app shows users how far they are from the nearest checkpoint, motivating them to continue exploring the region in a fun and engaging way.
+
+### 🌟 Online Gallery & Voting
+
+The app will feature an **online gallery** showcasing user photos, where users can **vote for their favourites**. The top-voted gallery will be rewarded each year, creating dynamic and ongoing engagement with NT tourism.
+
+## How Does This Solve the Tourism Pain Point?
+
+Our app addresses the core issues we identified earlier—lack of interest, especially among younger generations, and the absence of a “killer factor” that makes NT stand out.
+
+### 📲 Social Media Shareability
+
+By turning exploration into a game and encouraging users to take photos, the app naturally encourages social sharing. The images taken at checkpoints will flood social media, creating viral content that showcases NT’s stunning beauty, unique attractions, and cultural heritage.
+
+### 🎮 Engagement with Younger Audiences
+
+This app is designed for the **digital-savvy younger generation**. With its gamified elements, rewards system, and built-in social sharing, it taps directly into the habits and interests of millennial and Gen Z travellers, transforming them into ambassadors for NT.
+
+### 🌍 Boosting Tourism Visibility
+
+The viral nature of social sharing combined with the app’s interactive features will generate interest not only among users but also among their networks. By making NT exploration exciting and sharable, we’ll generate the kind of buzz that brings in new visitors, while providing existing tourists with unforgettable, interactive experiences.
+
+![app pages](img/App_Pages.jpg)
+
+For more details such as the detailed game mechanics, please go to ./source/\_posts
+
+# Want to brows it locally?
+
+Welcome to our GitHub repository! 🎉 We're excited to share our work from the GovHack 2024 event with you. This repo includes everything you need to run this server-ready website.
+
+If you'd like to host the website locally, it's a breeze! Just follow these simple steps:
+
+1. Install Hexo globally:
+   ```
+   npm i hexo -g
+   ```
+2. Start the local server:
+   ```
+   hexo server
+   # Server link is shown on screen
+   ```
+
+Feel free to explore. Enjoy! 🌟
