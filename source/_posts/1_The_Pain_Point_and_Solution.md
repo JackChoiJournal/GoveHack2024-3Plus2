@@ -1,3 +1,7 @@
+---
+title: Introduction
+date: 2024/9/8
+---
 # Introduction
 
 <img src="img/App_Logo.png" alt="app logo" width="200" />
