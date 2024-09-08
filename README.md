@@ -1,6 +1,6 @@
 # Introduction
 
-![alt text](img/App_Logo.png)
+![app logo](img/App_Logo.png)
 
 To address the challenges facing Northern Territory (NT) tourism, we are excited to introduce an innovative app designed to transform the way people explore and experience NT. Our app not only engages visitors but also leverages the viral potential of social media to create a ripple effect, driving interest and visitors to the region—especially among the younger generation.
 
@@ -44,6 +44,6 @@ This app is designed for the **digital-savvy younger generation**. With its gami
 
 The viral nature of social sharing combined with the app’s interactive features will generate interest not only among users but also among their networks. By making NT exploration exciting and sharable, we’ll generate the kind of buzz that brings in new visitors, while providing existing tourists with unforgettable, interactive experiences.
 
-![alt text](img/App_Pages.jpg)
+![app pages](img/App_Pages.jpg)
 
 For more details such as the detailed game mechanics, please go to ./source/\_posts
