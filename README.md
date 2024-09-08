@@ -1,7 +1,6 @@
 # Introduction
 
 <img src="img/App_Logo.png" alt="app logo" width="200" />
-
 To address the challenges facing Northern Territory (NT) tourism, we are excited to introduce an innovative app designed to transform the way people explore and experience NT. Our app not only engages visitors but also leverages the viral potential of social media to create a ripple effect, driving interest and visitors to the region—especially among the younger generation.
 
 ### What Does Our App Do?
