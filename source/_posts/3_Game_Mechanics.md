@@ -1,3 +1,7 @@
+---
+title: Game Mechanics: Leveling Up and Rewards
+date: 2024/9/8 010:00:00
+---
 # Game Mechanics: Leveling Up and Rewards
 
 ## Introduction
