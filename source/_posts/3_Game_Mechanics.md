@@ -1,5 +1,5 @@
 ---
-title: Game Mechanics: Leveling Up and Rewards
+title: "Game Mechanics: Leveling Up and Rewards"
 date: 2024/9/8 10:00:00
 ---
 # Game Mechanics: Leveling Up and Rewards
