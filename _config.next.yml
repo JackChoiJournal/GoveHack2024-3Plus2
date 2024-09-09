@@ -104,10 +104,10 @@ menu:
   #schedule: /schedule/ || fa fa-calendar
   #sitemap: /sitemap.xml || fa fa-sitemap
   #commonweal: /404/ || fa fa-heartbeat
-  Project: /2024/09/08/1_The_Pain_Point_and_Solution/#The-Core-Problem || fa-home
-  App: /2024/09/08/2_App_Introduction || fa-home
-  "How to play": /2024/09/08/3_Game_Mechanics || fa-home
-  Reference: /2024/09/08/References
+  Project: /1_The_Pain_Point_and_Solution/#The-Core-Problem || fa-home
+  App: /2_App_Introduction || fa-home
+  "How to play": /3_Game_Mechanics || fa-home
+  Reference: /References
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
